@@ -1,0 +1,44 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.head-style{
+    background-color: #FFFBF0;
+}
+.penguin-logo img{
+    width: 300px;
+}
+.about-details img{
+    width: 80px;
+}
+.penguin-card{
+    border: 0;
+    border-radius: 1em;
+    height: 550px;
+}
+.penguin-card-body{
+    border-radius: 1em;
+    background-color: #F1F1F1;
+    padding: 1em;
+    height: 327px;
+}
+.penguin-card-body img{
+    width: 70%;
+    
+}
+.penguin-card-footer{
+    border: 0;
+    background-color: white;
+}
+.about-logo img{
+    width: 100%;
+    padding-left: 5em;
+}
+.title{
+    font-size: 50px;
+    font-weight: 900;
+    color: #363958;
+    
+}
+.title span{
+    color: goldenrod;
+}
